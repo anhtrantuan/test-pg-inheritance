@@ -34,5 +34,5 @@
 *~
 
 # Ignore rbenv files
-.ruby-gemsets
+.rbenv-gemsets
 .ruby-version
